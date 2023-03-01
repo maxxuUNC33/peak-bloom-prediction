@@ -48,4 +48,9 @@ Download and run our jupyter notebook file:
  
 Graham, Karen. 2021. “Climate Change Likely Cause of Japan’s ‘Earliest Cherry Blossoms’.” Digital Journal, March. https://www.digitaljournal.com/world/climate-change-likely-cause-of-japan-s-earliest-cherry-blossoms/article/587700.
 
+Cherry Blossom Festival (U.S. National Park Service). https://www.nps.gov/subjects/cherryblossom/bloom-watch.html. Accessed: 2022-02-28.
+
+Mohamed Farouk Abdel Hady, Friedhelm Schwenker, and G¨unther Palm. Semi-supervised learning for regression with co-training by committee. In International Conference on Artificial Neural Networks, pages 121–130. Springer, 2009.
+
+Uran Chung, Liz Mack, Jin I Yun, and Soo-Hyung Kim. Predicting the timing of cherry blossoms in washington, dc and mid-atlantic states in response to climate change. PloSone, 6(11):e27439, 2011.
 
