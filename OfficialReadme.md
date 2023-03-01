@@ -17,11 +17,11 @@ Specifically, Our Repo contains the highest likelihood blossom dates of cherry t
 ## Report
 
 The final report can be found
-[here](https://github.com/aimee0317/cherry-blossom-prediction/blob/main/doc/cherry_blossom_prediction_report.pdf).
 
 
 
-Our final predictions can be found [here](https://github.com/aimee0317/cherry-blossom-prediction/blob/main/cherry-predictions.csv).
+
+
 
 
 
