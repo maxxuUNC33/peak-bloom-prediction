@@ -12,7 +12,6 @@ and developed respective XGBoost models and Neural Network models with MLE.
 This event has great cultural and economic significance for many cities and regions worldwide, which gave us the motivation to study and model it in-depth. 
 Specifically, Our Repo contains the highest likelihood blossom dates of cherry trees in Kyoto, Japan, Washington DC, USA, Vancouver, Canada, and Liestal, Switzerland.
 
-<img src="./results/workflow.jpg" alt="Workflow of the Project" width="80%" />
 
 
 ## Report
